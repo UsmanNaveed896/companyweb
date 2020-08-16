@@ -1,0 +1,73 @@
+// style of contactus page
+
+.Contact-us-page-main{
+    padding: 0!important;
+    margin-top: 21rem;
+    // margin:0!important;
+    .contact-us-first-sec{
+        box-shadow: 23px 71px 50px -29px #ccc;
+        height: 671px;
+        .contactus-page-image{
+            margin-top: -10rem;
+            .resp{
+                .imgDiv{
+                    margin-top: -13rem;
+                }
+            }
+        }
+        .contact-us-text{
+            margin-top: -49rem;
+            margin-left: 14rem;
+            .contact-vector-styles{
+                margin-top:-25rem;
+                width: 318px;
+                justify-content: space-evenly;
+                margin-left: -16rem;
+                .v1{
+                    margin-left: -25px;
+                }
+                .v2{
+                    margin-top: 55px;
+                    position: absolute;
+                    margin-left: -40px;
+                }
+            }
+            .contact-us-ambitions{
+                
+                p{
+                    width:541px;
+                }
+            }
+           
+        }
+    }
+}
+.contact-us-ambitions{
+    width:559px;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: type 4s steps(90, end);
+    animation: type2 4s steps(90, end);
+}
+@keyframes type{
+    from { width: 0; }
+}
+    @keyframes type2
+{
+    0%{width: 0;}
+    50%{width: 0;}
+    100%{ width: 100; }
+
+}
+.resp{
+    animation: transform 2s ;
+     animation-duration: 3s;
+      height: 20vh;
+     position:relative;
+ }
+    @keyframes transform {
+    from {
+    transform: translateY(300%);
+
+}
+}

@@ -1,0 +1,59 @@
+// footer style scss
+
+.the-designers-footer{
+    .contact-us-image{
+        // margin-top: 100rem;
+        .contact-us-popup{
+            margin-top: -7rem;
+            height: auto;
+            // border:1px solid black;
+            .Button-contact-us {
+                display: flex;
+                justify-content: flex-end;
+                .BtN {
+                    position: absolute;
+                    button.contact-us {
+                        width: 214px;
+                        height: 60px;
+                        font-size: 18px;
+                        padding: 10px;
+                        border-radius: 10px;
+                    }
+                }
+            }
+                         .dotted-img{
+                            .dotts {
+                                margin-top: -31px;
+                                height: 275px;
+                }
+            }
+        }
+    }
+                              .footer-image-designers{
+                                        .footer-image{
+                                           height:500px;
+                                            width:100%;
+        }
+        
+    }
+                                        .footer-image-lists{
+                                        .footer-links{
+                                            position: absolute;
+                                            margin-top: -15rem!important;
+                                            .twitter-icon{
+                                                .twiiter-pic{
+                                                    height:28px;
+                                                }
+                                                .football-pic{
+                                                    height:28px;
+                                                }
+                                            .copyrights{
+                                                margin-top: 200px;
+                                            }
+                                        }
+                                         }
+                }
+}
+
+
+

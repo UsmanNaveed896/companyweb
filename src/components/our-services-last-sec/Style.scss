@@ -1,0 +1,145 @@
+    // Our services last section css
+
+    .Technologies{
+        .round-cards{
+            .first-three-cards{
+                .round-circles{
+                    margin-top:5rem;
+                .react-js-round{
+                       margin-left:-16rem;
+                        width: 139px;
+                        height: 139px;
+                        object-fit: contain;
+                        box-shadow: 0px 22px 30px 0 rgba(197, 197, 197, 0.35);
+                        background-color: var(--white);
+                        border-radius: 50%;
+                        margin-top: 9rem;
+                      h1{
+                       padding-top: 38px;
+                        margin-left: 34px;
+                      }
+                }
+            
+            .Node-js-round{
+                margin-top: 3rem;
+                width: 139px;
+                height: 139px;
+                object-fit: contain;
+                box-shadow: 0px 22px 30px 0 rgba(197, 197, 197, 0.35);
+                background-color: var(--white);
+                border-radius: 50%;
+              h1{
+               padding-top: 38px;
+                margin-left: 34px;
+              }
+            }
+            .MySql-round{
+                margin-top: 9rem;
+                width: 139px;
+                height: 139px;
+                object-fit: contain;
+                box-shadow: 0px 22px 30px 0 rgba(197, 197, 197, 0.35);
+                background-color: var(--white);
+                border-radius: 50%;
+                margin-left: 32px;
+              h1{
+               padding-top: 38px;
+                margin-left: 34px;
+              }
+            }
+            .Next-round{
+                margin-top: 3rem;
+                margin-left:2rem;
+                width: 139px;
+                height: 139px;
+                object-fit: contain;
+                box-shadow: 0px 22px 30px 0 #c5c5c559;
+                background-color: var(--white);
+                border-radius: 50%;
+              h1{
+               padding-top: 38px;
+                margin-left: 45px;
+              }
+            }
+        }
+    }
+        .last-three-cards{
+            .round-circles-B{
+                margin-top:5rem;
+                .mongo-bd-round{
+                    width: 139px;
+                    height: 139px;
+                    object-fit: contain;
+                    box-shadow: 0px 22px 30px 0 rgba(197, 197, 197, 0.35);
+                    background-color: var(--white);
+                    border-radius: 50%;
+                    margin-top: 9rem;
+                    margin-left: 20px;
+                  h1{
+                   padding-top: 38px;
+                    margin-left: 28px;
+                  }
+                    
+                }
+
+                .Gatsby-round{
+                    margin-top: 3rem;
+                    width: 139px;
+                    height: 139px;
+                    object-fit: contain;
+                    box-shadow: 0px 22px 30px 0 rgba(197, 197, 197, 0.35);
+                    background-color: var(--white);
+                    border-radius: 50%;
+                    margin-left: 20px;
+                  h1{
+                   padding-top: 38px;
+                    margin-left: 34px;
+                  }
+                }
+                .RestApi-round{
+                    margin-top: 9rem;
+                    width: 139px;
+                    height: 139px;
+                    object-fit: contain;
+                    box-shadow: 0px 22px 30px 0 rgba(197, 197, 197, 0.35);
+                    background-color: var(--white);
+                    border-radius: 50%;
+                    margin-left: 32px;
+                  h1{
+                   padding-top: 38px;
+                    margin-left: 34px;
+                  }
+                }
+                .Graphql-round{
+                    margin-top: 3rem;
+                    margin-left: 50rem;
+                    width: 139px;
+                    height: 139px;
+                    object-fit: contain;
+                    box-shadow: 0px 22px 30px 0 #c5c5c559;
+                    background-color: var(--white);
+                    border-radius: 50%;
+                  h1{
+                   padding-top: 38px;
+                    margin-left: 30px;
+                  }
+                }
+
+
+
+            }
+        }
+  }
+
+}
+.heart-img{
+    height:381px;
+}
+.dotty-img {
+    width: 540px;
+    height: 300px;
+    margin-top: 57px;
+}
+.round-cards-mob{
+  display: none;
+}

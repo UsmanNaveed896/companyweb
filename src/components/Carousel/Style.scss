@@ -1,0 +1,29 @@
+// style of carousel
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+}
+.arrows
+{
+ width: 100%;
+  height: 0rem;
+  margin-top: -74px;
+
+}
+span.left-arrow.glyphicon.glyphicon-chevron-left{
+  margin-top: 50rem;
+  margin-left: 66rem;
+  color:black;
+}
+span.right-arrow.glyphicon.glyphicon-chevron-right {
+  margin-top: 50rem;
+  color:black;
+  margin-right: 66rem;
+}
+.carousel-control.right {
+  background-image:none;
+}
+.carousel-control.left {
+  background-image:none;
+}

@@ -1,0 +1,64 @@
+// Style of sec c our services
+.sec-C-main{
+    .Our-Services{
+        .sec-C-start{
+            margin-top: -14rem;
+            h1.Sec-C-main-heading.f-s-52.f-fm.f-w-b.clr-black {
+                width: 367px;
+                line-height: 1.07;
+                margin-top: 47px;
+            }
+            .read-succes-story-button-C{
+                .read-success-button-C{
+                    width: 244px;
+                    height: 50px;
+                    box-shadow: 0px 25px 42px 0 rgba(253, 174, 159, 0.35);
+                }
+            }
+        }
+        .deadA{
+        .SecB-credentials{
+            height: 364px;
+            box-shadow: 0 0 19px 0 rgba(215, 215, 215, 0.35);
+            width: 320px;
+           
+            .product-design{
+                transition: transform 1s;
+                transform-style: preserve-3d;
+                .card-background-img{
+                    .back-img{
+                          height: 364px;
+                            width: 170px;
+                            margin-left: 82px;
+                    }
+                }
+                .rectangle-image {
+                    margin-top: 60px;
+                    margin-left: 30px;
+                }
+                .product-design-text{
+                    .design-text {
+                        margin-left: 19px;
+                        width: 242px;
+                    }
+                    .design-textB {
+                        margin-left: 19px;
+                        width: 242px;
+                        margin-top: 10px;
+                    }
+                }
+            }
+        }
+        }
+    }
+}
+
+.SecB-credentials:hover .product-design  {
+    transform: scale(1.1);
+  }
+  .read-succes-story-button-C-mobile{
+      display: none;
+  }
+
+
+

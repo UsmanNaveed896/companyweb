@@ -1,0 +1,35 @@
+// style of modal 
+
+.cards-popup{
+    overflow-x: hidden;
+ overflow-y: auto;
+    position: absolute;
+    padding:0!important;
+    background-color:rgba(0,0,0,0.4)!important;
+    height:140vh;
+    margin-top: -132rem;
+    z-index: 1000;
+    .pop-up-section{
+        .pop-up{
+            overflow-x: hidden;
+            overflow-y: auto;
+            position:fixed;
+            left: 50%;
+            top: 20%;
+            -ms-transform: translate(-50%,-50%);
+            -moz-transform:translate(-50%,-50%);
+            -webkit-transform: translate(-50%,-50%);
+            transform: translate(-50%,-50%);
+            background-color: white;
+            padding: 29px;
+            box-shadow: 0 0 19px 0 rgba(215, 215, 215, 0.35);
+            .pop-img {
+                height: 397px;
+                width: 461px;
+            }
+            .pop-up-text{
+                width: 344px;
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+// stye of section b who we are
+
+.who-we-are-second-part-main{
+    width:92%!important;
+    .image-mobile{
+        display:none;
+    }
+    .who-we-are{
+        .partB-image{
+            display: flex;
+            justify-content: flex-end;
+            width: 600px;
+        }
+        .partB-start{
+            justify-content: center;
+            h1{
+                width: 446px;
+            }
+            .diamond-image{
+                width:616px;
+            }
+            .second-part-text{
+                p{
+                    width:472px;
+                    margin-left: 25px;
+                }
+                
+            }
+            .read-succes-story-button{
+                margin-left:-13rem;
+            .read-success-button{
+                width: 244px;
+                 height: 50px;
+            }
+        }
+        }
+    }
+}
+                                // PartB of This Section
+                .why-we-exist{
+                    .animated-images{
+                        .second-image{
+                            img.square {
+                                position: absolute;
+                                margin-top: -21rem;
+                               margin-left: -10rem;
+                            }
+                        }
+                    }
+                    .why-do-we-exist-heading{
+                        .heading-first{
+                            p{
+                                width: 500px;
+                            }
+                        }
+                        .heading-second{
+                            p{
+                                width:502px;
+                            }
+                        }
+                        .heading-third{
+                            p{
+                                width:466px;
+                            }
+                        }
+                    }
+                }
+                .image-mobile{
+                    display:none!important;
+                }
+    

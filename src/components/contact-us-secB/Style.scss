@@ -1,0 +1,56 @@
+// style of contact-us
+.contact-us-secb{
+    .contact-us-main{
+        .get-in-touch{
+            img.quick-find-img {
+                height: 182px;
+                width: 233px;
+                margin-top: 5rem;
+            }
+            img.dottss {
+                height: 267px;
+                margin-top: 18rem;
+            }
+            .Quick-find-us{
+                padding:0px 10px 0px 10px;
+                box-shadow: 0 0 22px 0 rgba(205, 205, 205, 0.35);
+                .find-us{
+                    width: 300px;
+                }
+            }
+            .contact-us-form{
+                padding-bottom: 50px;
+                box-shadow: 0 0 22px 0 rgba(205, 205, 205, 0.35);
+               
+            }
+            .send-button{
+             width: 160px;
+             height: 40px;
+        }
+        }
+    }
+}
+.text-area-input{
+    padding-bottom: 130px!important;
+    // box-shadow: 0 0 22px 0 rgba(205, 205, 205, 0.35);
+    border: 1px solid #e6f1ff;
+    color:rgba(51, 51, 51, 0.7);
+}
+.full-name-input {
+    // box-shadow: 0 0 22px 0 rgba(205, 205, 205, 0.35);
+    border: 1px solid #e6f1ff;
+    color:rgba(51, 51, 51, 0.7);
+}
+.Email-input{
+    // box-shadow: 0 0 22px 0 rgba(205, 205, 205, 0.35);
+    border: 1px solid #e6f1ff;
+    color:rgba(51, 51, 51, 0.7);
+}
+.Phone-number{
+    // box-shadow: 0 0 22px 0 rgba(205, 205, 205, 0.35);
+    border: 1px solid #e6f1ff;
+    color:rgba(51, 51, 51, 0.7)!important;
+}
+.mobile-view-image{
+    display:none;
+}
