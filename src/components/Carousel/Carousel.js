@@ -1,6 +1,6 @@
 import React from'react'
 import '../Carousel/Style.scss'
-import Cards from '../home-page-last/last-sec'
+import Cards from '../home-page-last/home-last-sec'
 import '../../../node_modules/bootstrap/dist/css/bootstrap.css';
 
 export default()=>{
