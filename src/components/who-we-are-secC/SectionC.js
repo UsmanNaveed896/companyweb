@@ -15,7 +15,7 @@ export default () => {
         $(window).scroll(function () {
 
             var oTop = $('#counter').offset().top - window.innerHeight;
-            if (a == 0 && $(window).scrollTop() > oTop) {
+            if (a === 0 && $(window).scrollTop() > oTop) {
                 $('.counter-value').each(function () {
                     var $this = $(this),
                         countTo = $this.attr('data-count');
